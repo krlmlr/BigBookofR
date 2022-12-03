@@ -6,7 +6,7 @@ If you're new to R and want to learn how to use it, this library might be a litt
 
 If you aren't sure where  to start, then try one  of these two options:
 
-### Book: R for Data Science
+## Book: R for Data Science
 
 This book is an excellent introduction to R programming and gets you started with visualizing data so you see some exciting stuff, and the power of R, right away. 
 
@@ -22,7 +22,7 @@ https://oscarbaruffa.com/a-roadmap-for-getting-started-with-r/
 
 
 
-### Video Course: Getting started with R
+## Video Course: Getting started with R
 
 If you prefer video instruction with progress tracking, check out this course from "R for the Rest of Us" called Getting Started with R.
 
